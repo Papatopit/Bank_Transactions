@@ -1,0 +1,27 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(†ªÀ
+E
+java:S6212"/Declare this local variable with "var" instead.(óİÔú
+E
+java:S6212"/Declare this local variable with "var" instead.(…Ÿ€â
+J
+java:S6212"/Declare this local variable with "var" instead.(Å‚ÉÎúÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(ôÎ…Ì8ƒŞÌ•œ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äõ§»üÿÿÿÿ
+L
+java:S6212 "/Declare this local variable with "var" instead.(‰¡×¹8†ŞÌ•œ/
+E
+java:S6212!"/Declare this local variable with "var" instead.(®Ì»ê
+{
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¥¶Å•œ/
+V	java:S1250"<This block of commented-out lines of code should be removed.(›ø¢Åúÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(±Ãªş
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(åºËÆøÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(€°ÿ•
+G
+java:S1481",Remove this unused "account" local variable.(èæÙüÿÿÿÿÿ
+M
+java:S1481"2Remove this unused "accountNumber" local variable.(–Ìüõúÿÿÿÿ
+P
+java:S1144H"3Remove this unused private "randomTransfer" method.(ªƒÑ¸8¶àÒ•œ/
